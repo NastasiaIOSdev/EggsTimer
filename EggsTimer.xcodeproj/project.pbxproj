@@ -13,6 +13,7 @@
 		2E75BECC2593A7FE007DFD0B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E75BECA2593A7FE007DFD0B /* Main.storyboard */; };
 		2E75BECE2593A802007DFD0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E75BECD2593A802007DFD0B /* Assets.xcassets */; };
 		2E75BED12593A802007DFD0B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E75BECF2593A802007DFD0B /* LaunchScreen.storyboard */; };
+		2E75BEDA2593A8C5007DFD0B /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2E75BED92593A8C5007DFD0B /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2E75BECD2593A802007DFD0B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2E75BED02593A802007DFD0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2E75BED22593A802007DFD0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2E75BED92593A8C5007DFD0B /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				2E75BEC82593A7FE007DFD0B /* ViewController.swift */,
 				2E75BECA2593A7FE007DFD0B /* Main.storyboard */,
 				2E75BECD2593A802007DFD0B /* Assets.xcassets */,
+				2E75BED92593A8C5007DFD0B /* alarm_sound.mp3 */,
 				2E75BECF2593A802007DFD0B /* LaunchScreen.storyboard */,
 				2E75BED22593A802007DFD0B /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				2E75BED12593A802007DFD0B /* LaunchScreen.storyboard in Resources */,
 				2E75BECE2593A802007DFD0B /* Assets.xcassets in Resources */,
+				2E75BEDA2593A8C5007DFD0B /* alarm_sound.mp3 in Resources */,
 				2E75BECC2593A7FE007DFD0B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -287,6 +291,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 3VJYN6Z9BM;
 				INFOPLIST_FILE = EggsTimer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -305,6 +310,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 3VJYN6Z9BM;
 				INFOPLIST_FILE = EggsTimer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
